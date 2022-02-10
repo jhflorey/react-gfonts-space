@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "node-sass-chokidar": "0.0.3",
     "react": "^16.2.0",
     "react-click-outside": "^3.0.0",
